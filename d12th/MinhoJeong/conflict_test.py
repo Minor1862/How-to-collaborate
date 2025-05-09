@@ -1,3 +1,3 @@
 x = "It's so fun"
-y = "to learn git"
+y = "to learn code"
 print(x, y)
